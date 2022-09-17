@@ -13,7 +13,7 @@ from datetime import datetime
 from fredapi import Fred
 from plotly.subplots import make_subplots
 
-fred = Fred(api_key='369d1c7da6774fdc9c576d8f41178f8f')
+fred = Fred(api_key='insert your fred key')
 
 def now_utc():
     now = datetime.utcnow()
