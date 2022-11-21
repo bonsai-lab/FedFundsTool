@@ -1,5 +1,4 @@
 # FedFundsTool
-Simple fed funds futs tool
+Simple fed funds futs tool to visualize implied hikes
 
-
-<img width="938" alt="Screen Shot 2565-09-17 at 18 41 53" src="https://user-images.githubusercontent.com/86531591/190867476-5d4a0ef6-a800-4f3c-9eda-c605fd5ceb66.png">
+<img width="987" alt="Screenshot 2565-11-21 at 10 25 48" src="https://user-images.githubusercontent.com/86531591/203013989-ed6f3752-2bde-4f6f-93a8-bcf426d813aa.png">
